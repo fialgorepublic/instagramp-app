@@ -1,0 +1,46 @@
+# Logfile created on 2020-10-01 13:28:10 +0500 by logger.rb/v1.4.2
+W, [2020-10-01T13:29:00.376702 #101737]  WARN -- : Downloading spirituality ended in undefined method `hostname' for "spirituality":String. Retrying 3 times.
+W, [2020-10-01T13:29:01.387520 #101737]  WARN -- : Downloading spirituality ended in undefined method `hostname' for "spirituality":String. Retrying 2 times.
+W, [2020-10-01T13:29:02.400174 #101737]  WARN -- : Downloading spirituality ended in undefined method `hostname' for "spirituality":String. Retrying 1 times.
+W, [2020-10-01T13:29:03.402923 #101737]  WARN -- : JSON parsing failed for URI: spirituality, not retrying.
+W, [2020-10-01T13:51:52.370941 #102065]  WARN -- : Downloading spirituality ended in undefined method `hostname' for "spirituality":String. Retrying 3 times.
+W, [2020-10-01T13:51:53.385275 #102065]  WARN -- : Downloading spirituality ended in undefined method `hostname' for "spirituality":String. Retrying 2 times.
+W, [2020-10-01T13:51:54.394356 #102065]  WARN -- : Downloading spirituality ended in undefined method `hostname' for "spirituality":String. Retrying 1 times.
+W, [2020-10-01T13:51:55.396526 #102065]  WARN -- : JSON parsing failed for URI: spirituality, not retrying.
+I, [2020-10-01T14:02:40.533681 #102859]  INFO -- : Queuing #spirituality
+I, [2020-10-01T14:02:45.649841 #102859]  INFO -- : Queuing #spirituality
+I, [2020-10-01T14:03:43.698720 #102859]  INFO -- : Queuing #spirituality
+I, [2020-10-01T14:04:06.957973 #102859]  INFO -- : Queuing #spirituality
+I, [2020-10-01T14:04:46.385634 #102859]  INFO -- : Queuing #spirituality
+I, [2020-10-01T14:05:19.128479 #102859]  INFO -- : Queuing #spirituality
+I, [2020-10-01T14:05:24.083807 #102859]  INFO -- : Queued 74 media for #spirituality.
+I, [2020-10-01T14:08:09.013444 #102859]  INFO -- : Queuing #spirituality
+I, [2020-10-01T14:08:14.378810 #102859]  INFO -- : Queued 80 media for #spirituality.
+I, [2020-10-01T14:09:12.592124 #102859]  INFO -- : Queuing #spirituality
+I, [2020-10-01T14:09:17.053455 #102859]  INFO -- : Queued 80 media for #spirituality.
+I, [2020-10-01T14:10:42.949736 #102859]  INFO -- : Queuing #spirituality
+I, [2020-10-01T14:10:57.954361 #102859]  INFO -- : Queued 80 media for #spirituality.
+I, [2020-10-01T14:11:55.507062 #102859]  INFO -- : Queuing #spirituality
+I, [2020-10-01T14:12:27.399051 #102859]  INFO -- : Queuing #spirituality
+I, [2020-10-01T14:13:43.798064 #102859]  INFO -- : Queuing #spirituality
+I, [2020-10-01T14:13:48.506853 #102859]  INFO -- : Queued 81 media for #spirituality.
+I, [2020-10-01T14:19:30.982757 #104405]  INFO -- : Queuing #spirituality
+I, [2020-10-01T14:19:35.820713 #104405]  INFO -- : Queued 81 media for #spirituality.
+I, [2020-10-01T14:20:39.201548 #104405]  INFO -- : Queuing #spirituality
+I, [2020-10-01T14:21:22.863345 #104405]  INFO -- : Queuing #spirituality
+I, [2020-10-01T14:23:54.885919 #104768]  INFO -- : Queuing #spirituality
+I, [2020-10-01T14:23:59.458216 #104768]  INFO -- : Queued 81 media for #spirituality.
+I, [2020-10-01T14:25:26.928489 #104768]  INFO -- : Queuing #spirituality
+I, [2020-10-01T14:25:31.544082 #104768]  INFO -- : Queued 81 media for #spirituality.
+I, [2020-10-01T14:26:15.608552 #104768]  INFO -- : Queuing #spirituality
+I, [2020-10-01T14:26:20.046448 #104768]  INFO -- : Queued 81 media for #spirituality.
+I, [2020-10-01T14:26:53.512338 #104768]  INFO -- : Queuing #spirituality
+I, [2020-10-01T14:26:58.143455 #104768]  INFO -- : Queued 81 media for #spirituality.
+I, [2020-10-01T14:36:46.283741 #104768]  INFO -- : Queuing #spirituality
+I, [2020-10-01T14:36:51.043474 #104768]  INFO -- : Queued 72 media for #spirituality.
+I, [2020-10-01T14:37:34.752815 #104768]  INFO -- : Queuing #spirituality
+I, [2020-10-01T14:37:39.670817 #104768]  INFO -- : Queued 72 media for #spirituality.
+I, [2020-10-01T14:40:19.245116 #104768]  INFO -- : Queuing #spirituality
+I, [2020-10-01T14:40:24.136321 #104768]  INFO -- : Queued 72 media for #spirituality.
+I, [2020-10-01T16:48:22.081147 #104768]  INFO -- : Queuing #spirituality
+I, [2020-10-01T16:48:26.576671 #104768]  INFO -- : Queued 58 media for #spirituality.
