@@ -10,8 +10,10 @@ class InstagramService
       'User-Agent' => "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:60.0) Gecko/20100101 Firefox/60.0"
     }
     http = Net::HTTP.new(uri.hostname, uri.port)
+    puts "===============================http:================#{http}"
     http.use_ssl = true
     response = http.get(uri, headers)
+    puts "============================================response:============================#{response}"
     instagram_tag = response.body
     puts "=======================================================================#{instagram_tag.inspect}"
     hashtag_json = JSON.parse(instagram_tag)
