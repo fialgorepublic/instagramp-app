@@ -13,6 +13,7 @@ class InstagramService
     http.use_ssl = true
     response = http.get(uri, headers)
     instagram_tag = response.body
+    puts "=======================================================================#{instagram_tag.inspect}"
     hashtag_json = JSON.parse(instagram_tag)
     hashtag_info = hashtag_json['graphql']['hashtag']
     edges = hashtag_info["edge_hashtag_to_media"]['edges']
